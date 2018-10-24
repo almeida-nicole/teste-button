@@ -1,0 +1,26 @@
+.podcasts{
+  background-color: red;
+  display: flex;
+}
+
+.podcasts__itens {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.7rem;
+  display: flex;
+
+}
+.podcasts__itens a{
+  text-decoration: none;
+  color: #ffffff;
+  padding: 1rem 3rem;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+}
+.podcasts__itens img{
+  height: 2vh;
+}
+
+p {
+  margin-left: 5px;
+}
